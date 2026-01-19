@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd vidgrab-frontend && npm run build",
+  "outputDirectory": "vidgrab-frontend/.next",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
