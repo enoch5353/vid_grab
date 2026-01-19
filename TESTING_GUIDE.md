@@ -11,7 +11,7 @@ VidGrab Frontend is a modern, responsive Next.js 14+ web application for downloa
 ## ✅ Project Structure
 
 ```
-vidgrab-frontend/
+/
 ├── app/
 │   ├── layout.tsx          # Root layout with theme provider & service worker
 │   ├── page.tsx            # Main application page (client-side)
@@ -48,7 +48,7 @@ vidgrab-frontend/
 
 1. **Install dependencies** (already done):
    ```bash
-   cd /workspaces/vid_grab/vidgrab-frontend
+   cd /workspaces/vid_grab
    npm install
    ```
 

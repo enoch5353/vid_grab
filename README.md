@@ -21,7 +21,7 @@ A modern, responsive **Next.js 14+ web application** for downloading videos from
 
 ### Installation
 ```bash
-cd /workspaces/vid_grab/vidgrab-frontend
+cd /workspaces/vid_grab
 npm install
 ```
 

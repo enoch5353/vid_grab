@@ -59,7 +59,7 @@ Your **VidGrab Frontend** Next.js application is now fully built, tested, and re
 ## 📂 Project Structure
 
 ```
-vidgrab-frontend/
+/
 │
 ├── app/
 │   ├── layout.tsx              ← Root layout with theme provider & PWA
@@ -96,7 +96,7 @@ vidgrab-frontend/
 
 ### Development Mode
 ```bash
-cd /workspaces/vid_grab/vidgrab-frontend
+cd /workspaces/vid_grab
 npm run dev
 ```
 Open **http://localhost:3000** in your browser
