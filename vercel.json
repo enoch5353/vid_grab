@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd vidgrab-frontend && npm install && npm run build",
-  "outputDirectory": "vidgrab-frontend/.next",
-  "devCommand": "cd vidgrab-frontend && npm run dev",
-  "installCommand": "cd vidgrab-frontend && npm install"
-}
