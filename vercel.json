@@ -1,7 +1,6 @@
 {
-  "rootDirectory": "vidgrab-frontend",
-  "buildCommand": "npm run build",
-  "outputDirectory": ".next",
+  "buildCommand": "cd vidgrab-frontend && npm install && npm run build",
+  "outputDirectory": "vidgrab-frontend/.next",
   "cleanUrls": true,
   "trailingSlash": false
 }
