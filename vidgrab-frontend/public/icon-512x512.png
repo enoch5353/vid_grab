@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#007bff"/>
+  
+  <!-- Outer circle -->
+  <circle cx="256" cy="256" r="240" fill="#ffffff" opacity="0.95"/>
+  <circle cx="256" cy="256" r="240" fill="none" stroke="#0052a3" stroke-width="4"/>
+  
+  <!-- Play triangle (left side) -->
+  <polygon points="180,170 180,342 310,256" fill="#007bff"/>
+  
+  <!-- Download arrow (right side) -->
+  <g transform="translate(340, 200)">
+    <!-- Arrow shaft -->
+    <rect x="15" y="20" width="30" height="60" fill="#007bff"/>
+    <!-- Arrow head -->
+    <polygon points="30,80 10,60 50,60" fill="#007bff"/>
+  </g>
+</svg>
